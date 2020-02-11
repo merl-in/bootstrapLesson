@@ -1,0 +1,21 @@
+.intec {
+    background-color: rgba(69, 137, 216, 0.3);
+    color: white;
+}
+.shade {
+    background-color: rgba(69, 137, 216, 0.3);
+    color:white;
+}
+.colour1 {
+    background-color: rgba(61, 153, 92, 0.2);
+    
+}
+.colour2 {
+    background-color: rgba(206, 42, 42, 0.2);
+    
+}
+img {
+    box-shadow:  5px 5px 15px 10px rgba(255, 255, 255, 0.425);
+    width: 100%;
+    margin-bottom: 30px;
+}
